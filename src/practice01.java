@@ -6,7 +6,7 @@
 
 你可以按任意顺序返回答案。
  */
-public class pratice01 {
+public class practice01 {
     public static void main(String[] args) {
         int m[] = {2,7,1,4};
         int x[] = twoSum(m,6);
